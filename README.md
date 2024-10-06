@@ -19,9 +19,7 @@ I'm a passionate software developer with a focus on building efficient, scalable
 
 ### 🌟 Featured Projects
 
-Here are some of the projects that I'm proud of:
-
-1. [**Healthcare Simulator**](https://github.com/oiivantsov/healthcare-simulator)  
+1. [**Healthcare Simulator**](https://github.com/oiivantsov/metropolia-healthcare-simulator)  
    A complex simulation to model patient flow through healthcare service points, using probabilistic decision-making and supporting custom simulation parameters via a GUI.
    
 2. [**Currency Converter**](https://github.com/oiivantsov/currency-converter)  
