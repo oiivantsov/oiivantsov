@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate software developer with a focus on building efficient, scalable, and user-friendly applications. I have experience in Java development, web technologies, and database management. Currently, I'm diving deep into full-stack development and expanding my knowledge of different software architectures and cloud services.
+I'm a passionate software developer with a focus on building efficient, scalable, and user-friendly applications. I have 1.5 years of experience in Java development, web technologies, and database management. Currently, I'm diving deep into full-stack development and expanding my knowledge of different software architectures and cloud services.
 
 - 🌱 I’m currently learning: Advanced Java concepts, Spring Framework, and microservices architecture.
 - 💬 Ask me about: Java, JavaFX, databases, algorithms, and software design.
