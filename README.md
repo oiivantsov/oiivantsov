@@ -18,7 +18,7 @@ I'm a passionate software developer with a focus on building efficient, scalable
 ### 🌟 Featured Projects
 
 1. [**Finnish Dictionary RESTful API**](https://github.com/oiivantsov/dictionary)  
-   A comprehensive API built with **Spring Boot** that enables storing, retrieving, and managing over **13,000 Finnish words** and their translations. The API supports advanced filtering and search functionality, making it a valuable tool for language learners. The project evolved from a personal Excel-based dictionary to a fully structured API.  
+   A comprehensive API built with **Spring Boot** that enables storing, retrieving, and managing over **13,000 Finnish words** and their translations. The API supports advanced filtering and search functionality, making it a valuable tool for language learners.
    👉 [Check out the deployed API](https://dictionary-a919.onrender.com/api/words) *(First load might take 30-50 seconds due to free-tier hosting)*
 
 2. [**Healthcare Simulator**](https://github.com/oiivantsov/metropolia-healthcare-centre)  
