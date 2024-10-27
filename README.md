@@ -20,8 +20,6 @@ I'm a passionate software developer with a focus on building efficient, scalable
 1. [**Finnish Dictionary RESTful API**](https://github.com/oiivantsov/dictionary)  
    A comprehensive API built with **Spring Boot** that enables storing, retrieving, and managing over **13,000 Finnish words** and their translations. The API supports advanced filtering and search functionality, making it a valuable tool for language learners.
 
-   👉 [Check out the deployed API](https://dictionary-a919.onrender.com/api/words) *(First load might take 30-50 seconds due to free-tier hosting)*
-
 3. [**Healthcare Simulator**](https://github.com/oiivantsov/metropolia-healthcare-centre)  
    A complex simulation to model patient flow through healthcare service points, using probabilistic decision-making and supporting custom simulation parameters via a GUI.
    
