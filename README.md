@@ -19,15 +19,16 @@ I'm a passionate software developer with a focus on building efficient, scalable
 
 1. [**Finnish Dictionary RESTful API**](https://github.com/oiivantsov/dictionary)  
    A comprehensive API built with **Spring Boot** that enables storing, retrieving, and managing over **13,000 Finnish words** and their translations. The API supports advanced filtering and search functionality, making it a valuable tool for language learners.
+
    👉 [Check out the deployed API](https://dictionary-a919.onrender.com/api/words) *(First load might take 30-50 seconds due to free-tier hosting)*
 
-2. [**Healthcare Simulator**](https://github.com/oiivantsov/metropolia-healthcare-centre)  
+3. [**Healthcare Simulator**](https://github.com/oiivantsov/metropolia-healthcare-centre)  
    A complex simulation to model patient flow through healthcare service points, using probabilistic decision-making and supporting custom simulation parameters via a GUI.
    
-3. [**Currency Converter**](https://github.com/oiivantsov/currency-converter)  
+4. [**Currency Converter**](https://github.com/oiivantsov/currency-converter)  
    A JavaFX application to handle currency conversions, featuring add/update dialogs, auto-fill capabilities, and integrated rate management.
 
-4. [**Suitcase Adventure**](https://github.com/oiivantsov/metropolia-suitcase-adventure-game)  
+5. [**Suitcase Adventure**](https://github.com/oiivantsov/metropolia-suitcase-adventure-game)  
    A versatile educational game developed in both **desktop** and **web** versions. The game focuses on engaging gameplay mechanics and problem-solving challenges. The web-based version showcases skills in **web development**, while the desktop version emphasizes **core game logic** and **user interaction**.
 
 Feel free to check them out to see how I approach different problems!
