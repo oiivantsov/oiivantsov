@@ -1,45 +1,65 @@
-# Hi there 👋, I'm Oleg
+# Hello, I'm Oleg!
 
 ### 🚀 About Me
 
-I'm a passionate software developer with a focus on building efficient, scalable, and user-friendly applications. I have 1.5 years of experience in Java development, web technologies, and database management. Currently, I'm diving deep into full-stack development and expanding my knowledge of different software architectures and cloud services.
+As a Data Engineer with a strong foundation in software development, I specialize in designing scalable ETL pipelines, data models, and analytics solutions that transform raw data into valuable business insights. With 2 years of experience in corporate finance and business analytics, I bridge the gap between technology and business needs, ensuring data-driven decision-making. Additionally, I excel at translating complex technical insights into clear, actionable recommendations for stakeholders.
 
-- 🌱 I’m currently learning: Advanced Java concepts, Spring Framework, and microservices architecture.
-- 💬 Ask me about: Java, RESTful APIs, databases, algorithms, and software design.
-- 📫 How to reach me: [oiivantsov@outlook.com](mailto:oiivantsov@outlook.com)
+- 🎯 Areas of focus: **Data Engineering, ETL Pipelines, Cloud Data Solutions, and Big Data Processing**.
+- 🌱 I’m currently deepening my expertise in **Azure, Apache Kafka, Airflow, and Spark**.    
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/oleg-ivantsov) | [oiivantsov@outlook.com](mailto:oiivantsov@outlook.com) 
 
-### 🛠️ Tech Stack
+---
 
-- **Languages**: Java, Python, SQL, JavaScript
-- **Frameworks & Libraries**: Spring Boot, JavaFX, JUnit 5
-- **Databases**: PostgreSQL, MariaDB, MySQL
-- **Other Tools**: Docker, Git, Maven
+### 🛠️ Tech Stack  
+
+- **Languages**: Python, SQL, Java, JavaScript (React)  
+- **Data Engineering**: ETL Pipelines, Apache Spark, Airflow, Kafka  
+- **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB, Cassandra
+- **Backend & APIs**: FastAPI, Flask, Spring Boot (REST API)
+- **Cloud & DevOps**: Microsoft Azure, Docker, Linux  
+- **Other Tools**: JPA, BeautifulSoup (Web Scraping), Jupyter Notebooks  
+
+---
 
 ### 🌟 Featured Projects
 
-1. [**Finnish Dictionary RESTful API**](https://github.com/oiivantsov/dictionary)  
-   A comprehensive API built with **Spring Boot** that enables storing, retrieving, and managing over **13,000 Finnish words** and their translations. The API supports advanced filtering and search functionality, making it a valuable tool for language learners.
+#### 🔹 **[E-Commerce Data Platform](https://github.com/oiivantsov/ecommerce-data-platform)**  
+A **Dockerized Data Engineering Platform** designed to simulate real-world **e-commerce data workflows**. Inspired by the **IBM Data Engineering Capstone**, this modular platform integrates OLTP, NoSQL, Data Warehousing, ETL, and Big Data processing.  
 
-3. [**Healthcare Simulator**](https://github.com/oiivantsov/metropolia-healthcare-centre)  
-   A complex simulation to model patient flow through healthcare service points, using probabilistic decision-making and supporting custom simulation parameters via a GUI.
-   
-4. [**Currency Converter**](https://github.com/oiivantsov/currency-converter)  
-   A JavaFX application to handle currency conversions, featuring add/update dialogs, auto-fill capabilities, and integrated rate management.
+- **Tech Stack**: MySQL, PostgreSQL, MongoDB, Apache Spark, Airflow, Docker  
+- **Key Features**:  
+  - **OLTP & NoSQL Databases** for transactional and product catalog data  
+  - **Data Warehouse** for analytical queries and BI integration  
+  - **ETL Pipelines** for data migration and web service analytics  
+  - **Big Data Processing** with Apache Spark  
+  - **Full Dockerization** for modular and scalable deployment  
 
-5. [**Suitcase Adventure**](https://github.com/oiivantsov/metropolia-suitcase-adventure-game)  
-   A versatile educational game developed in both **desktop** and **web** versions. The game focuses on engaging gameplay mechanics and problem-solving challenges. The web-based version showcases skills in **web development**, while the desktop version emphasizes **core game logic** and **user interaction**.
+This platform provides a **flexible foundation** for experimenting with data engineering concepts, pipeline automation, and cloud integration.
 
-Feel free to check them out to see how I approach different problems!
+#### 🔹 **[ETL Finnish Dictionary API (FastAPI & PostgreSQL)](https://github.com/oiivantsov/dictionary-ETL-backend)**  
+A **FastAPI-based ETL pipeline** that scrapes, processes, and stores Finnish word translations and definitions in a PostgreSQL database.  
 
-### 🔗 Let's Connect
+- **Tech Stack**: FastAPI, PostgreSQL, Docker, BeautifulSoup  
+- **Key Features**:  
+  - Extracts data from Wiktionary, Wikisanakirja, Urbaani Sanakirja  
+  - Cleans, formats, and stores structured translations  
+  - REST API for search, CRUD operations, and analytics  
+  - Dockerized for easy deployment  
 
-- [LinkedIn](https://linkedin.com/in/oleg-ivantsov)
-- [Portfolio](#) *(Coming Soon)*
+#### 🔹 **[Healthcare Simulator](https://github.com/oiivantsov/metropolia-healthcare-centre)**  
+A **Java-based simulation** of patient flow in a healthcare center, utilizing probabilistic decision-making and data-driven analysis. The system stores simulation results, probabilities, and service distributions in a **MariaDB database**, leveraging **SQL and JPA** for efficient data management. This project highlights **database persistence and statistical tracking** for healthcare process optimization.
+
+#### 🔹 **[Suitcase Adventure (Game Development)](https://github.com/oiivantsov/metropolia-suitcase-adventure-game)**  
+An **educational game** built for both desktop and web, where our team developed core gameplay mechanics while learning **Python, SQL basics, and API architecture**. The project introduced me to **data persistence, REST API design, and backend logic**, laying the groundwork for my transition into data engineering and backend development.
+
+---
 
 ### 📊 GitHub Stats
 
-![Oleg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oiivantsov&show_icons=true&theme=radical)
+![Oleg's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oiivantsov&theme=nord_dark)
+
+---
 
 ### 👨‍💻 Open Source Contributions
 
-I'm a big advocate of open source and I love to collaborate! I'm actively looking for more projects to contribute to, and I'm always open to suggestions.
+I'm always open to collaborating on data engineering, ETL pipelines, and backend development projects. If you're working on an exciting project or need a contributor, feel free to reach out!
