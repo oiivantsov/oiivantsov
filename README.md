@@ -4,7 +4,7 @@
 
 I'm a Data Engineer with a strong foundation in software development, specializing in scalable ETL pipelines, data modeling, and analytics solutions that turn raw data into valuable business insights. 
 
-With 2 years of experience in corporate finance and business analytics, I bridge the gap between technology and business needs, ensuring data-driven decision-making. I excel at translating complex technical insights into clear, actionable recommendations for stakeholders.
+With a background in corporate finance and business analytics, I bridge the gap between technology and business needs, ensuring data-driven decision-making. I excel at translating complex technical insights into clear, actionable recommendations for stakeholders.
 
 - 🎯 Areas of focus: **Data Engineering, ETL Pipelines, Cloud Data Solutions, and Big Data Processing**.
 - 🌱 I’m currently deepening my expertise in **Azure, Apache Kafka, Airflow, and Spark**.    
