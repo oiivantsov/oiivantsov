@@ -48,11 +48,11 @@ A **FastAPI-based ETL pipeline** that scrapes, processes, and stores Finnish wor
   - REST API for search, CRUD operations, and analytics  
   - Dockerized for easy deployment  
 
-#### 🔹 **[Healthcare Simulator](https://github.com/oiivantsov/metropolia-healthcare-centre)**  
+#### 🔹 **[Healthcare Simulator (Java Development)](https://github.com/oiivantsov/metropolia-healthcare-centre)**  
 A **Java-based simulation** of patient flow in a healthcare center, utilizing probabilistic decision-making and data-driven analysis. The system stores simulation results, probabilities, and service distributions in a **MariaDB database**, leveraging **SQL and JPA** for efficient data management. This project highlights **database persistence and statistical tracking** for healthcare process optimization.
 
-#### 🔹 **[Suitcase Adventure (Game Development)](https://github.com/oiivantsov/metropolia-suitcase-adventure-game)**  
-An **educational game** built for both desktop and web, where our team developed core gameplay mechanics while learning **Python, SQL basics, and API architecture**. The project introduced me to **data persistence, REST API design, and backend logic**, laying the groundwork for my transition into data engineering and backend development.
+#### 🔹 **[Suitcase Adventure (Python Development)](https://github.com/oiivantsov/metropolia-suitcase-adventure-web)**  
+An **educational game** built for both [desktop](https://github.com/oiivantsov/metropolia-suitcase-adventure-game) and [web](https://github.com/oiivantsov/metropolia-suitcase-adventure-web), where our team developed core gameplay mechanics while learning **Python, SQL basics, and API architecture**. The project introduced me to **data persistence, REST API design, and backend logic**, laying the groundwork for my transition into data engineering and backend development.
 
 ---
 
