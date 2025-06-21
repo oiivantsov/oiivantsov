@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a **Data Engineer** with a strong foundation in software development, specializing in **end-to-end data pipelines, cloud data platforms, and analytics solutions** that turn raw data into valuable insights.
+I'm a **Data Engineer** with a strong foundation in software development, specializing in **end-to-end data pipelines, cloud data platforms, and analytics solutions**. I enjoy learning through hands-on projects and prefer turning theory into real, working solutions.
 
 With a background in **corporate finance and business analytics**, I bridge the gap between technology and business, helping organizations make better, data-driven decisions.
 
